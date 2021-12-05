@@ -1,0 +1,60 @@
+table{
+	border: 3px solid #6495ed;
+	width: 60%;
+	background-color: #D0E3FA;
+	margin: auto;
+
+}
+
+th{
+	font-family: arial;
+	font-size: 1.20em;
+	text-align: center;
+	border: 2px solid #000099;
+	background-image: url('img1.jpg');
+	height: 200px;
+}
+
+
+td
+{
+	font-family: verdana;
+	font-size: 0.80em;
+	text-align: center;
+	border: 2px solid #000099;
+	width: 50%;
+}
+
+td.texte{vertical-align: bottom;
+}
+
+
+div.conteneurtp3{
+	display: flex;
+}
+
+h1.navigation{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a.navigation{
+	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 20%;
+	text-decoration: none;
+}
+
+img{
+	width: 300px;
+}
+
+div.titretp4{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
